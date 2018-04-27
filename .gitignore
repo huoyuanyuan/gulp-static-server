@@ -12,4 +12,3 @@ build/
 *.conf
 .project
 .DS_Store
-*.json
