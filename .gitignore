@@ -1,0 +1,15 @@
+aspnet_client/
+web.config
+bak/
+.svn/
+.idea/
+node_modules/
+test/
+*.rar
+*.7z
+build/
+.cache/
+*.conf
+.project
+.DS_Store
+*.json
